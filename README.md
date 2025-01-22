@@ -2,8 +2,8 @@
 3d printable RC car, intended to be robust and simple
 
 # TODO
--BOM
--Instructions
--assembly video
--vector drawings of each part for reproduction purposes
+- BOM
+- Instructions
+- Assembly video
+- Vector drawings of each part for reproduction purposes
 
